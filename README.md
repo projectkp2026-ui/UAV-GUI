@@ -27,15 +27,6 @@ A modern, web-based Ground Control Station for Unmanned Aerial Vehicles (UAVs), 
    cd UAV-GUI
    ```
 
-2. Install dependencies:
-   ```bash
-   npm install
-   ```
-
-3. Start the development server:
-   ```bash
-   npm start
-   ```
 
 4. Open your browser and navigate to `http://localhost:3000`
 
@@ -43,13 +34,9 @@ A modern, web-based Ground Control Station for Unmanned Aerial Vehicles (UAVs), 
 
 ```
 UAV-GUI/
-├── public/          # Static files
-├── src/             # Source code
-│   ├── components/  # React components
-│   ├── assets/      # Images and other assets
-│   ├── utils/       # Utility functions
-│   └── App.js       # Main application component
-├── package.json     # Project dependencies
+----building.glb
+----tree.glb
+----index.html
 └── README.md        # This file
 ```
 
