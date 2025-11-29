@@ -1,3 +1,66 @@
-# UAV-GUI
+# UAV Ground Control Station (GCS)
 
-This is the GUI application for the UAV (Unmanned Aerial Vehicle) project.
+A modern, web-based Ground Control Station for Unmanned Aerial Vehicles (UAVs), providing real-time telemetry, mission planning, and flight control capabilities.
+
+## ✨ Features
+
+- 🛰️ Real-time telemetry visualization
+- 🗺️ Interactive map with waypoint planning
+- 📊 Flight data monitoring and logging
+- 🎮 Manual flight controls
+- 🚀 Autonomous mission execution
+- 📱 Responsive web interface
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Node.js (v14 or later)
+- npm (v6 or later)
+- Modern web browser (Chrome, Firefox, Edge, or Safari)
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/projectkp2026-ui/UAV-GUI.git
+   cd UAV-GUI
+   ```
+
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+
+3. Start the development server:
+   ```bash
+   npm start
+   ```
+
+4. Open your browser and navigate to `http://localhost:3000`
+
+## 🛠️ Project Structure
+
+```
+UAV-GUI/
+├── public/          # Static files
+├── src/             # Source code
+│   ├── components/  # React components
+│   ├── assets/      # Images and other assets
+│   ├── utils/       # Utility functions
+│   └── App.js       # Main application component
+├── package.json     # Project dependencies
+└── README.md        # This file
+```
+
+## 🤝 Contributing
+
+Contributions are welcome! Please read our [contributing guidelines](CONTRIBUTING.md) to get started.
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 📧 Contact
+
+For any questions or feedback, please open an issue or contact the maintainers.
