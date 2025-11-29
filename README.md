@@ -13,11 +13,7 @@ A modern, web-based Ground Control Station for Unmanned Aerial Vehicles (UAVs), 
 
 ## 🚀 Getting Started
 
-### Prerequisites
 
-- Node.js (v14 or later)
-- npm (v6 or later)
-- Modern web browser (Chrome, Firefox, Edge, or Safari)
 
 ### Installation
 
@@ -41,7 +37,7 @@ UAV-GUI/
 ```
 
 ## 🤝 Contributing
-
+[khagendra-plugmind646￼](https://github.com/khagendra-plugmind646)
 Contributions are welcome! Please read our [contributing guidelines](CONTRIBUTING.md) to get started.
 
 ## 📄 License
